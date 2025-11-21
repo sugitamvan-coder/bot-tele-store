@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": 7576468867,
+    "jenis": "DEPOSIT",
+    "keterangan": "Deposit masuk",
+    "jumlah": 10000,
+    "waktu": "2025-11-20 21:05:54"
+  },
+  {
+    "user_id": 7576468867,
+    "jenis": "BELI",
+    "keterangan": "YOUTUBE 1 BULAN FAMHEAD x1",
+    "jumlah": 5000,
+    "waktu": "2025-11-20 21:11:07"
+  }
+]
