@@ -1,0 +1,558 @@
+{
+  "1": {
+    "nama": "Canva Pro Sebulan",
+    "stok": 348,
+    "harga": 12500,
+    "akun_list": [
+      {
+        "username": "ytuser2@mail.com",
+        "password": "pass456",
+        "tipe": "1 Bulan Famhead"
+      },
+      {
+        "username": "ytuser3@mail.com",
+        "password": "pass789",
+        "tipe": "1 Bulan Famhead"
+      }
+    ]
+  },
+  "2": {
+    "nama": "VIU Premium 1 Tahun",
+    "stok": 342,
+    "harga": 11000,
+    "akun_list": [
+      {
+        "username": "ytuser2@mail.com",
+        "password": "pass456",
+        "tipe": "1 Bulan Famhead"
+      },
+      {
+        "username": "ytuser3@mail.com",
+        "password": "pass789",
+        "tipe": "1 Bulan Famhead"
+      }
+    ]
+  },
+  "3": {
+    "nama": "Prem Video",
+    "stok": 332,
+    "harga": 15000,
+    "akun_list": [
+      {
+        "username": "canvalife1@mail.com",
+        "password": "life123",
+        "tipe": "Lifetime"
+      },
+      {
+        "username": "canvalife2@mail.com",
+        "password": "life456",
+        "tipe": "Lifetime"
+      }
+    ]
+  },
+  "4": {
+    "nama": "Vidio Platinum",
+    "stok": 225,
+    "harga": 35000,
+    "akun_list": [
+      {
+        "username": "vpnuser1@mail.com",
+        "password": "vpnpass",
+        "tipe": "30 Hari"
+      }
+    ]
+  },
+  "5": {
+    "nama": "Netflix Premium (Sharing)",
+    "stok": 442,
+    "harga": 35000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "6": {
+    "nama": "Fore Coffe 1 Liter",
+    "stok": 442,
+    "harga": 65000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "7": {
+    "nama": "Capcut Pro 35 Hari",
+    "stok": 242,
+    "harga": 15000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "8": {
+    "nama": "Account Drakor ID",
+    "stok": 142,
+    "harga": 10000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "9": {
+    "nama": "Alight Motion 1 Tahun",
+    "stok": 122,
+    "harga": 6000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "10": {
+    "nama": "Bstation 3 Bulan",
+    "stok": 122,
+    "harga": 25000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "11": {
+    "nama": "ChatGpt Plus (Invite)",
+    "stok": 122,
+    "harga": 10000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "12": {
+    "nama": "ChatGpt Plus Sebulan (No Garansi)",
+    "stok": 322,
+    "harga": 25000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "13": {
+    "nama": "ChatGpt Pro Fullgar",
+    "stok": 222,
+    "harga": 1500000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "14": {
+    "nama": "Crunchyroll 1 Tahun",
+    "stok": 222,
+    "harga": 55000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "15": {
+    "nama": "Vision+ Sport",
+    "stok": 222,
+    "harga": 55000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "16": {
+    "nama": "Kopi Kenangan",
+    "stok": 822,
+    "harga": 15000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "17": {
+    "nama": "Disney+ Hotstar (1 Bulan)",
+    "stok": 522,
+    "harga": 65000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "18": {
+    "nama": "Youtube Premium (1 Bulan)",
+    "stok": 522,
+    "harga": 5000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "19": {
+    "nama": "HBO MAX Standar (30 Hari)",
+    "stok": 222,
+    "harga": 75000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "20": {
+    "nama": "Spotify 3 Bulan",
+    "stok": 222,
+    "harga": 85000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "21": {
+    "nama": "Topup 2010 Diamond Mobile Legend (Vilog) Promo 50%",
+    "stok": 122,
+    "harga": 285000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "22": {
+    "nama": "Topup Bigo Live 15000Diamond (Promo 50%) ",
+    "stok": 422,
+    "harga": 3655000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "23": {
+    "nama": "Topup PUBGM 8100UC (Promo 50%)",
+    "stok": 422,
+    "harga": 1155000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "24": {
+    "nama": "Tiktok 1K Followers Bonus Likes + View",
+    "stok": 822,
+    "harga": 65000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "25": {
+    "nama": "Instagram 1K Followers + Bonus Likes",
+    "stok": 622,
+    "harga": 65000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "26": {
+    "nama": "We TV",
+    "stok": 622,
+    "harga": 55000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "27": {
+    "nama": "Topup Saldo BlueBird Saldo 1JT",
+    "stok": 622,
+    "harga": 685000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "28": {
+    "nama": "Source Code Bot Emas Antam",
+    "stok": 622,
+    "harga": 6850000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "29": {
+    "nama": "Followers Facebook 1K",
+    "stok": 622,
+    "harga": 35000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "30": {
+    "nama": "Telegram 10000 Stars Harga Asli 2,7JT (Promo)",
+    "stok": 622,
+    "harga": 1850000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "31": {
+    "nama": "Discord Nitro Setahun Harga Asli $99.99",
+    "stok": 622,
+    "harga": 1250000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "32": {
+    "nama": "Tiktok Live View 1K 90 Menit",
+    "stok": 622,
+    "harga": 65000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  },
+  "33": {
+    "nama": "Jasa Skripsi Full Revisi (Laporan + Program)",
+    "stok": 622,
+    "harga": 5500000,
+    "akun_list": [
+      {
+        "username": "spotify1@mail.com",
+        "password": "spo123",
+        "tipe": "1 Bulan Student"
+      },
+      {
+        "username": "spotify2@mail.com",
+        "password": "spo456",
+        "tipe": "1 Bulan Student"
+      }
+    ]
+  }
+}
